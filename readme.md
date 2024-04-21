@@ -33,5 +33,5 @@ Enter the filename (e.g., links.html): links202208.html
 2. スクリプト`gigazt.py` をダウンロードし、コマンドラインから実行します。
 
 ## ライセンス
-このプロジェクトは [MITライセンス](LICENSE) の下で公開されています。
+このプロジェクトは [MITライセンス](LICENSE.txt) の下で公開されています。
 
